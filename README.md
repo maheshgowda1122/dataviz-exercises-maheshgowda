@@ -1,1 +1,1 @@
-# dataviz-exercises-maheshgowda
+# Data Viz Exercises – Mahesh Gowda
